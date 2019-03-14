@@ -40,6 +40,14 @@ public class MethodsProject {
                 System.out.println(number6 + " is the greatest of the two numbers you entered.");
             }
         }
+        {
+            System.out.println("I now need you to give me two words.");
+            System.out.println("Enter the first word.");
+            String word1 = keyboard.next();
+            System.out.println("Enter the second word.");
+            String word2 = keyboard.next();
+            System.out.print(word2 + " " + word1);
+        }
         }
 
 
