@@ -48,7 +48,7 @@ public class MethodsProject {
             String word2 = keyboard.next();
             System.out.print(word2 + " " + word1);
         }
-        }
+    }
 
 
 
